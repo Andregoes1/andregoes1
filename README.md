@@ -42,5 +42,5 @@ Desenvolvedor focado em construir aplicações eficientes com Python e tecnologi
 </picture>
 
 <div align="center">
-  <sub>Desenvolvido com 💙 por Andre Goes</sub>
+  <sub>Desenvolvido por Andre Goes</sub>
 </div>
