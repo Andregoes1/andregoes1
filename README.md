@@ -1,7 +1,7 @@
 # 🚀 Olá, eu sou o André Goes!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&secondaryColor=6A5ACD&height=200&section=header&text=Andre%20Goes&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&secondaryColor=6A5ACD&height=200&section=header&text=andregoes&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner">
   
   <br/>
 
