@@ -8,12 +8,12 @@
 
 ---
 
-### 💻 Sobre Mim
-Desenvolvedor focado em construir aplicações eficientes com Python e tecnologias Web.
+# 💻 Sobre Mim
+Desenvolvedor focado em construir aplicações eficientes.
 
 ---
 
-### 🛠️ Minhas Habilidades (Tech Stack)
+# 🛠️ Minhas Habilidades (Tech Stack)
 
 | Categoria | Badges |
 | :--- | :--- |
@@ -23,14 +23,14 @@ Desenvolvedor focado em construir aplicações eficientes com Python e tecnologi
 
 ---
 
-### 📈 Estatísticas de Contribuição
+# 📈 Estatísticas de Contribuição
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andregoes1&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 📫 Conecte-se comigo
+# 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-goes1)
 
 ---
