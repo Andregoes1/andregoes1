@@ -1,12 +1,9 @@
 # 🚀 Olá, eu sou o André Goes!
 
 <div align="center">
-  <img src="https://itscat-readme-layout.vercel.app/api?type=waving&color=007ACC&secondaryColor=6A5ACD&height=200&section=header&text=Andre%20Goes&fontSize=70&fontColor=ffffff" width="100%" />
-  
-  <br/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andregoes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoes1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&secondaryColor=6A5ACD&width=435&lines=Andre+Goes;Bem-vindo+ao+meu+perfil!&center=true&vCenter=true&size=30" alt="Typing SVG" />
+</p>
 </div>
 
 ---
