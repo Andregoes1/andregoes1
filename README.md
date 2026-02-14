@@ -1,6 +1,5 @@
-# 🚀 Olá, eu sou o André Goes!
-![gif](https://github.com/user-attachments/assets/7015c3d8-174c-4a44-abf9-666b9b9c54ea) ![Pixel Pokemon Sticker](https://github.com/user-attachments/assets/a46af6d3-8e07-4115-9d13-7d319e3f9269)
-
+# 🚀 Olá, eu sou o André Goes! ![pokeball STICKER](https://github.com/user-attachments/assets/34cb6c6d-b97b-4bfb-889a-93bea6722513)
+ 
 
 
 <div align="center">
