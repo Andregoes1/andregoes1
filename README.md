@@ -1,6 +1,5 @@
-# 🚀 Olá, eu sou o André Goes! ![pokeball STICKER](https://github.com/user-attachments/assets/34cb6c6d-b97b-4bfb-889a-93bea6722513)
- 
-
+# 🚀 Olá, eu sou o André Goes! 
+![Art Pixel Sticker by adieloart](https://github.com/user-attachments/assets/a4b187a3-c3f0-4670-a3d3-c8a548a83f25)
 
 <div align="center">
   <p align="center">
@@ -10,7 +9,8 @@
 
 ---
 
-# 💻 Sobre Mim
+# 💻 Sobre Mim ![Art Meme Sticker by Kano Computing](https://github.com/user-attachments/assets/74a9fd3f-7603-4a3f-a541-1640a46d05f5)
+
 Desenvolvedor focado em construir aplicações eficientes.
 
 ---
@@ -32,7 +32,7 @@ Desenvolvedor focado em construir aplicações eficientes.
 
 ---
 
-# 📫 Conecte-se comigo
+# 📫 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-goes1)
 
 ---
@@ -44,5 +44,5 @@ Desenvolvedor focado em construir aplicações eficientes.
 </picture>
 
 <div align="center">
-  <sub>Desenvolvido por Andre Goes</sub>
+  <sub>Desenvolvido por Andre Goes</sub>  
 </div>
