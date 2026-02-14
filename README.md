@@ -1,8 +1,11 @@
 # 🚀 Olá, eu sou o André Goes!
+![gif](https://github.com/user-attachments/assets/7015c3d8-174c-4a44-abf9-666b9b9c54ea) ![Pixel Pokemon Sticker](https://github.com/user-attachments/assets/a46af6d3-8e07-4115-9d13-7d319e3f9269)
+
+
 
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&secondaryColor=6A5ACD&width=435&lines=Andre+Goes;Bem-vindo+ao+meu+perfil!&center=true&vCenter=true&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&secondaryColor=6A5ACD&width=435&lines=Andre+Goes;Bem-vindo+ao+meu+perfil!&center=true&vCenter=true&size=30" alt="Typing SVG" /> 
 </p>
 </div>
 
