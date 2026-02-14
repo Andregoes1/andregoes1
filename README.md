@@ -1,5 +1,4 @@
 # 🚀 Olá, eu sou o André Goes! 
-![Art Pixel Sticker by adieloart](https://github.com/user-attachments/assets/a4b187a3-c3f0-4670-a3d3-c8a548a83f25)
 
 <div align="center">
   <p align="center">
@@ -9,7 +8,7 @@
 
 ---
 
-# 💻 Sobre Mim ![Art Meme Sticker by Kano Computing](https://github.com/user-attachments/assets/74a9fd3f-7603-4a3f-a541-1640a46d05f5)
+# 💻 Sobre Mim 
 
 Desenvolvedor focado em construir aplicações eficientes.
 
